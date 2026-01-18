@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nabantuk
+- 👋 Hi, I’m @arnabchakravarti
 - 👀 I’m interested in ...knowing & understanding
 - 🌱 I’m currently learning ...how to express in codes
 - 💞️ I’m looking to collaborate on ...whatever i don't know
